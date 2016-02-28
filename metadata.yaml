@@ -1,0 +1,33 @@
+_repo: In-the-Blue-Pike-Complete_5587
+alternative_title: Im blauen Hecht. English
+contributor:
+  translator:
+    agent_name: Safford, Mary J.
+    alias: Safford, Mary Joanna
+    gutenberg_agent_id: '1802'
+    url: http://www.gutenberg.org/2009/agents/1802
+creator:
+  author:
+    agent_name: Ebers, Georg
+    alias: Ebers, Georg Moritz
+    birthdate: 1837
+    deathdate: 1898
+    gutenberg_agent_id: '1800'
+    url: http://www.gutenberg.org/2009/agents/1800
+    wikipedia: http://en.wikipedia.org/wiki/Georg_Ebers
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5587'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- Translations into English'
+- !lcsh 'Germany -- Fiction'
+- !lcc 'PT'
+title: In the Blue Pike — Complete
+url: http://www.gutenberg.org/ebooks/5587
