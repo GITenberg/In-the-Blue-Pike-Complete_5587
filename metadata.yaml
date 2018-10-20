@@ -1,5 +1,5 @@
 _repo: In-the-Blue-Pike-Complete_5587
-_version: 0.2.0
+_version: 0.2.1
 alternative_title: Im blauen Hecht. English
 contributor:
   translator:
@@ -35,5 +35,6 @@ subjects:
 - !lcsh 'German fiction -- Translations into English'
 - !lcsh 'Germany -- Fiction'
 - !lcc 'PT'
+- GITenberg
 title: In the Blue Pike — Complete
 url: http://www.gutenberg.org/ebooks/5587
